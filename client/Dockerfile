@@ -1,23 +1,23 @@
-# Use an official Node.js runtime as the base image
-FROM node:14
+# Use the official Node.js image as the base image for the frontend
+FROM node:14-alpine
 
-# Set the working directory in the container
-WORKDIR /app
+# Set the working directory for the frontend
+WORKDIR /app/client
 
-# Copy package.json and package-lock.json to the working directory
+# Copy the package.json and package-lock.json files to the container for the frontend
 COPY package*.json ./
 
-# Install dependencies
+# Install dependencies for the frontend
 RUN npm install
 
-# Copy the rest of the application code
+# Copy the application code to the container for the frontend
 COPY . .
 
-# Build the React app for production
+# Build the frontend
 RUN npm run build
 
-# Expose the port the app runs on
+# Expose the port for the frontend
 EXPOSE 3000
 
-# Start the application
+# Start the frontend
 CMD ["npm", "start"]
