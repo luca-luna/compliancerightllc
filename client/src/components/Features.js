@@ -5,19 +5,19 @@ const Features = () => {
   const features = [
     {
       title: 'Corporate Compliance Programs',
-      description: "Let us hep you build a Corporate Compliance Program so that your business and employees can easily management the many internal and external risks that come from both intention and unintentional compliance violations.  In today's work environment, a small investment in your compliance program will provide significant benefits to your Company.",
+      description: "Let us hep you build a Corporate Compliance Program so that your business and employees can easily manage the many risks that come from both intention and unintentional compliance violations.  In today's work environment, a small investment in your compliance program will provide significant benefits to your Company.",
     },
     {
       title: 'Strategic Planning and Risk Management',
-      description: "We work with Boards and Senior Management to facilitate the Strategic Planning Process including templates for helping teams identify risks and develop mitigation strategies to build and grow better businesses.",
+      description: "We work with Boards and Senior Management to facilitate the Strategic Planning Process including customizable templates helping you identify risks and develop mitigation strategies to build and grow better businesses.",
     },
     {
       title: 'Investigations and Conflict Resolution',
       description: "In today's work environment, over 90% of employee complaints can be effectively managed and mitigated through fair independent incident investigation.  A cost-effective process to resolve problems, improve trust and build a culture that employees thrive in.  Have a difficult situation? let us do the investigation work for you and offer you guidance on resolution.",
     },
     {
-      title: 'Leadership Development',
-      description: "Succession planning and developing your talent is more important than ever.  With employee turnover being a historically high levels, we have been helping Companies identify and keep key talent by providing a comprehensive succession planning tool as well as a variety of leadership development courses.",
+      title: 'Talent Retention and Leadership Development',
+      description: "Succession planning and developing your talent is more important than ever.  With employee turnover being at historically high levels, we have been helping companies identify and keep key talent by providing a comprehensive succession planning tool as well as a variety of leadership development courses.",
     },
     {
       title: 'Safety Training',
