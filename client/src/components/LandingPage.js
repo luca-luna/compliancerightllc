@@ -22,9 +22,8 @@ const LandingPage = () => {
                 Welcome to ComplianceRight LLC
             </h1>
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-                tincidunt arcu eget augue placerat, in viverra turpis vehicula.
-                Integer vel elit eu lorem scelerisque laoreet in vel mi.
+              Compliance Right, LLC is a consulting-based firm that helps organizations maximize performance by 
+              developing high-performing teams in a culture of safety, ethics, and regulatory compliance.
             </p>
             </div>
         </div>

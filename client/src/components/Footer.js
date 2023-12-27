@@ -29,13 +29,13 @@ const Footer = () => {
             </a>
 
             {/* Phone Icon and Number */}
-            <a href="tel:+1234567890" className="text-gray-300 hover:text-white mb-2">
-              <i className="fa fa-phone"></i> +1 (234) 567-8901
+            <a href="tel:+716-863-3257" className="text-gray-300 hover:text-white mb-2">
+              <i className="fa fa-phone"></i> 716-863-3257
             </a>
 
             {/* Email Icon and Address */}
             <a href="mailto:info@complianceright.com" className="text-gray-300 hover:text-white mb-2">
-              <i className="fa fa-envelope"></i> info@complianceright.com
+              <i className="fa fa-envelope"></i> compliancerightllc@gmail.com
             </a>
 
             {/* Address Icon and Text */}

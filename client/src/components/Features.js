@@ -4,24 +4,24 @@ const Features = () => {
   // Define an array of feature objects
   const features = [
     {
-      title: 'Feature 1',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+      title: 'Corporate Compliance Programs',
+      description: "Let us hep you build a Corporate Compliance Program so that your business and employees can easily management the many internal and external risks that come from both intention and unintentional compliance violations.  In today's work environment, a small investment in your compliance program will provide significant benefits to your Company.",
     },
     {
-      title: 'Feature 2',
-      description: 'Sed tincidunt arcu eget augue placerat, in viverra turpis vehicula.',
+      title: 'Strategic Planning and Risk Management',
+      description: "We work with Boards and Senior Management to facilitate the Strategic Planning Process including templates for helping teams identify risks and develop mitigation strategies to build and grow better businesses.",
     },
     {
-      title: 'Feature 3',
-      description: 'Integer vel elit eu lorem scelerisque laoreet in vel mi.',
+      title: 'Investigations and Conflict Resolution',
+      description: "In today's work environment, over 90% of employee complaints can be effectively managed and mitigated through fair independent incident investigation.  A cost-effective process to resolve problems, improve trust and build a culture that employees thrive in.  Have a difficult situation? let us do the investigation work for you and offer you guidance on resolution.",
     },
     {
-      title: 'Feature 4',
-      description: 'Aenean ut ante eu erat sagittis varius sit amet eu urna.',
+      title: 'Leadership Development',
+      description: "Succession planning and developing your talent is more important than ever.  With employee turnover being a historically high levels, we have been helping Companies identify and keep key talent by providing a comprehensive succession planning tool as well as a variety of leadership development courses.",
     },
     {
-      title: 'Feature 5',
-      description: 'Nulla vel tortor sit amet ipsum bibendum congue a eget arcu.',
+      title: 'Safety Training',
+      description: 'Describe feature 5',
     },
   ];
 
