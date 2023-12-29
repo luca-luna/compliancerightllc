@@ -23,7 +23,7 @@ const LandingPage = () => {
             </h1>
             <p>
               Compliance Right, LLC is a consulting-based firm that helps organizations maximize performance by 
-              developing high-performing teams in a culture of safety, ethics, and regulatory compliance."
+              developing high-performing teams in a culture of safety, ethics, and regulatory compliance!"
             </p>
             </div>
         </div>
