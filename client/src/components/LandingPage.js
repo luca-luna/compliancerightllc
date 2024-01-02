@@ -19,11 +19,11 @@ const LandingPage = () => {
         >
             <div className="p-8 mt-64 text-white max-w-md">
             <h1 className="text-4xl font-semibold mb-4">
-                Welcome to ComplianceRight LLC
+              Welcome to Compliance Right LLC
             </h1>
             <p>
-              Compliance Right, LLC is a consulting-based firm that helps organizations maximize performance by 
-              developing high-performing teams in a culture of safety, ethics, and regulatory compliance!"
+              Compliance Right LLC is a consulting-based firm that helps organizations maximize performance by 
+              developing high-performing teams in a culture of safety, ethics, and regulatory compliance.
             </p>
             </div>
         </div>
