@@ -8,11 +8,11 @@ const Footer = () => {
           {/* Company Logo and Name */}
           <div className="flex items-center mb-4 md:mb-0">
             {/* Add your company logo here */}
-            <img
+            {/* <img
               src="/images/company-logo.png" // Replace with your logo image URL
               alt="Company Logo"
               className="w-12 h-12 mr-2"
-            />
+            /> */}
             <span className="text-xl ml-10 font-semibold">ComplianceRight LLC</span>
           </div>
 
@@ -49,11 +49,11 @@ const Footer = () => {
         </div>
 
         {/* Privacy Policy Link (Updated) */}
-        <div className="text-xs text-gray-300 mt-4">
+        {/* <div className="text-xs text-gray-300 mt-4">
           <a href="/privacy-policy" className="hover:text-white">
             Privacy Policy
           </a>
-        </div>
+        </div> */}
       </div>
     </footer>
   );

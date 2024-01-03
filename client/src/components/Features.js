@@ -26,7 +26,7 @@ const Features = () => {
   ];
 
   return (
-    <section id="features" className="bg-bright-turquoise-600 py-20">
+    <section id="features" className="bg-bright-turquoise-500 py-20">
       <div className="container mx-auto">
         <div className="text-center mb-10">
           <h2 className="text-4xl font-semibold mb-4 text-white">Key Features</h2>

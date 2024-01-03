@@ -13,9 +13,9 @@ const Feature = () => {
             compliance which spans financial to operational excellence as well as assisting companies with a variety of leadership, governance 
             and safety trainings.
           </p>
-          <a href="/team" className="bg-bright-turquoise-300 bg-bright-turquoise-300 hover:bg-bright-turquoise-600 py-2 px-4 rounded-full inline-block">
+          {/* <a href="/team" className="bg-bright-turquoise-300 bg-bright-turquoise-300 hover:bg-bright-turquoise-600 py-2 px-4 rounded-full inline-block">
             Meet the Founder
-          </a>
+          </a> */}
         </div>
 
         {/* Image (Right) */}
