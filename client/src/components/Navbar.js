@@ -40,6 +40,11 @@ const Navbar = () => {
                 Services
               </a>
             </li>
+            <li className="text-bright-turquoise-50 hover:text-bright-turquoise-950 hover:cursor-pointer transition duration-300">
+              <a href="#contact" onClick={(e) => scrollToSection(e, 'contact')}>
+                Contact
+              </a>
+            </li>
           </ul>
         </div>
       </div>
