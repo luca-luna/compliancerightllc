@@ -11,7 +11,8 @@ const Contact = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      await axios.post('https://lucaluna.tech/sendEmail', { name, email, message });
+      /* await axios.post('https://lucaluna.tech/sendEmail', { name, email, message }); */
+      await axios.post('https://compliancerightllc.com/sendEmail', { name, email, message });
       setIsSent(true);
       // Reset form values after successful submission
       setName('');
