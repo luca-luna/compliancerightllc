@@ -61,6 +61,8 @@ app.post('/sendEmail', cors(), async (req, res) => {
     html: `<p>Name: ${name}<br>Email: ${email}<br>Message: ${message}</p>`,
   };
 
+  console.log('To Address:', mailOptions.to);
+
   try {
     await transporter.sendMail(mailOptions);
     console.log('Email sent');
