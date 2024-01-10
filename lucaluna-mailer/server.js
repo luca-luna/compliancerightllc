@@ -55,7 +55,7 @@ app.post('/sendEmail', cors(), async (req, res) => {
   // Email configuration
   const mailOptions = {
     from: 'CONTACT FORM <luca@lucaluna.tech>',
-    to: 'luca@lucaluna.tech',
+    to: 'compliancerightllc@gmail.com',
     subject: 'CONTACT FORM MESSAGE',
     text: `Name: ${name}\nEmail: ${email}\nMessage: ${message}`,
     html: `<p>Name: ${name}<br>Email: ${email}<br>Message: ${message}</p>`,
